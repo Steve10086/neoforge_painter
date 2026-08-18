@@ -16,6 +16,7 @@
     "LevelAccessorMixin",
     "LevelMixin",
     "LevelRendererMixin",
+    "LivingEntityMixin",
     "PistonBaseBlockMixin",
     "PistonStructureResolverMixin"
   ],
